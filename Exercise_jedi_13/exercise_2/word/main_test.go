@@ -35,7 +35,7 @@ func TestUseCount(t *testing.T)  {
 
 func ExampleCount()  {
   fmt.Println(Count("This is a string"))
-  // Output
+  // Output:
   // 4
 }
 
